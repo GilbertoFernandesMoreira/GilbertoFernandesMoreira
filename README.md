@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @GilbertoFernandesMoreira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 _**Hi, I’m @GilbertoFernandesMoreira**_🚙
+- Estou estudando na Plataforma Alura
+- Estou iniciando na linguagem Javascript
+- Utilizarei este espaço para compartilhamento dos meus projetos desenvolvidos na Plataforma Alura💼
+- ### Meu contato📧
+  
+- gilbenlaces@gmail.com
+  
 
-<!---
-GilbertoFernandesMoreira/GilbertoFernandesMoreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ![](https://media1.tenor.com/m/fEFl-pwMDW0AAAAd/jarvis.gif)
+
+  
